@@ -237,7 +237,6 @@ h6 span {
 .box3 {
   width: 95%;
   height: 200px;
-  background-color: #ff6e4f;
   border-radius: 5px;
   display: flex;
   flex-direction: row;
@@ -246,7 +245,7 @@ h6 span {
 }
 
 .box2:first-child {
-  background-image: url(/svg/293956-1920x1200-desktop-hd-paris-background.jpg);
+  background-image: url(./svg/293956-1920x1200-desktop-hd-paris-background.jpg);
 }
 
 .box2 h6{
